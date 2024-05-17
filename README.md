@@ -20,7 +20,7 @@ Frameworks/Libraries: React.js, Next.js, React Native
 Tools: Vite
 
 **Backend Development**
-Languages: Python
+Languages: Python, Java, Javascript
 Frameworks: Express.js, Spring Boot
 
 **Databases**
