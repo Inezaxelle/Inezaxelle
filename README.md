@@ -1,35 +1,35 @@
-👋 Hi, I'm @Inezaxelle
+# 👋 Hi, I'm @Inezaxelle
 
-**About Me**
-I'm passionate about robotics and software development. Currently, I'm diving deep into web development and embedded systems. I am a versatile developer with experience in both fullstack and mobile development.
+**About Me**  
+I'm passionate about robotics and software development. Currently, I'm diving deep into web development and embedded systems. I am a versatile developer with experience in both full-stack and mobile development. I also have experience in project management, using tools like Trello and methodologies like Scrum to efficiently manage projects and teams.
 
-🌱 Learning Journey
-- Currently exploring Flutter to enhance my mobile development skills.
-- Expanding my knowledge in embedded systems.
-  
-💞️ Collaboration
-I'm looking to collaborate on various software projects. Let's build something amazing together!
+**🌱 Learning Journey**  
+- Currently exploring Flutter to enhance my mobile development skills.  
+- Expanding my knowledge in embedded systems.  
 
-🔧 Tools and Skills
-**Mobile Development**
-React native
+**💞️ Collaboration**  
+I'm looking to collaborate on various software projects. Let's build something amazing together! I’m also involved with **LEINS**, where we provide innovative IT solutions and services, including website creation and training programs to equip young people with digital skills.
 
-**Frontend Development**
-Languages: JavaScript, HTML, CSS
-Frameworks/Libraries: React.js, Next.js, React Native
-Tools: Vite
+**🔧 Tools and Skills**  
+**Mobile Development**  
+- React Native  
 
-**Backend Development**
-Languages: Python, Java, Javascript
-Frameworks: Express.js, Spring Boot
+**Frontend Development**  
+- Languages: JavaScript, HTML, CSS  
+- Frameworks/Libraries: React.js, Next.js, React Native  
+- Tools: Vite  
 
-**Databases**
-SQL Databases: MySQL, PostgreSQL
-NoSQL Databases: MongoDB
-Other: PL/SQL
+**Backend Development**  
+- Languages: Python, Java, JavaScript  
+- Frameworks: Express.js, Spring Boot  
 
-**Embedded Systems**
-Platforms: Arduino
+**Databases**  
+- SQL Databases: MySQL, PostgreSQL  
+- NoSQL Databases: MongoDB  
+- Other: PL/SQL  
 
-**Currently Learning**
-Mobile Development: Flutter
+**Embedded Systems**  
+- Platforms: Arduino  
+
+**Currently Learning**  
+- Mobile Development: Flutter  
